@@ -13,7 +13,7 @@ Arquivo:
 
 ---
 
-### 🛒 Atividade 02 - E-commerce
+### 📦 Atividade 02 - E-commerce
 
 Criação de um banco de dados para cadastro de produtos.
 
@@ -31,7 +31,7 @@ Arquivo:
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## 🚀 Tecnologias utilizadas
 
 - MySQL
 - SQL
